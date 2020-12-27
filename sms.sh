@@ -1,11 +1,3 @@
-#!/system/xbin/bash
-clear
-git clone https://github.com/amsitlab/smsid-java
-cd ./smsid-java
-chmod +x ./install
-apt install ./smsid_1.1_all.deb
-clear
-
 toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Tools"
