@@ -35,8 +35,8 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/sms/Tul/
-php 1
+cd $HOME/sms/
+php 1.php
 fi
 
 if
@@ -51,7 +51,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd $HOME/sms/Tul/
+cd $HOME/sms/
 php 2.php
 fi
 
@@ -66,7 +66,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/sms/Tul/
+cd $HOME/sms/
 php 3.php
 fi
 
@@ -81,7 +81,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/sms/Tul/
+cd $HOME/sms/
 php 4.php
 fi
 
@@ -100,7 +100,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd $HOME/sms/Tul/
+cd $HOME/sms/
 php 5.php
 fi
 
@@ -114,7 +114,7 @@ echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
 echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
 sleep 5
-cd $HOME/sms/Tul/
+cd $HOME/sms/
 php 6.php
 fi
 
@@ -149,22 +149,20 @@ echo "\033[33;1mKarya: IM81"
 sleep 1
 echo "\033[32;1mVersi: v3"
 sleep 1
-echo "\033[36;1mTeam: Indonesia Security Lite"
+echo "\033[36;1mTeam: mbxid crew"
 sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
+echo "\033[31;1mVisit Site""\033[37;1m Bluestack4"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Danz"
-echo "Mr.Rm"
-echo "SBGTeam"
-echo "amsitlab"
-echo "Bully Hat"
-echo "ChandraAditya"
-echo "Secoly Indonesia"
-echo "BlackHole Security"
-echo "Association Indonesian Right Wings"
+echo "Allah SWT"
+echo "My Family"
+echo "Google"
+echo "Github"
+echo "Blackhat Id Crew"
+echo "Agus Eko Saputra (Prog)"
+
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "MBX ID"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh sms.sh
@@ -177,7 +175,7 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
+echo "\033[32;1m See You Again :)"
 sleep 1
 fi
 
