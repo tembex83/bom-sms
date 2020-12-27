@@ -8,9 +8,9 @@ clear
 
 toilet -f slant --gay "LiteSpam"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m Tools"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mMBX ID (Agus Eko Saputra)""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
